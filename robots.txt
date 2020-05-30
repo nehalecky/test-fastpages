@@ -1,0 +1,1 @@
+Sitemap: https://nehalecky.github.io/test-fastpages/sitemap.xml
